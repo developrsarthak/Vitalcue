@@ -1,0 +1,8 @@
+{
+  "name": "VitalCue",
+  "description": "AI-powered daily health companion with micro-actions, detox modes, and smart challenges.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
